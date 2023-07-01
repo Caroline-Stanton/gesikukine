@@ -9,3 +9,6 @@ review code
 yes
 no
 what
+else if 
+fit(x,y)
+function heat
